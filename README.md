@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ngọc Trai and I'm a AI Engineer, from 🇻🇳 </h2>
 <img align="right" src="https://github.com/jayll1303/jayll1303/blob/main/typing.gif"  />
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayll1303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
