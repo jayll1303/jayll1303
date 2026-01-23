@@ -1,6 +1,5 @@
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/291907b2-8c7f-4d38-a92c-572904212d08" /><h2 align="left">Hi 👋! My name is Ngọc Trai and I'm a AI Engineer, from 🇻🇳 </h2>
-
-
+<h2 align="left">Hi 👋! My name is Ngọc Trai and I'm a AI Engineer, from 🇻🇳 </h2>
+<img align="right" src="https://github.com/jayll1303/jayll1303/blob/main/typing.gif"  />
 ###
 
 <div align="center">
@@ -8,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayll1303&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
