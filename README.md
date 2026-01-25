@@ -1,11 +1,16 @@
-<h2 align="left">Hi 👋! My name is Ngọc Trai and I'm a AI Engineer, from 🇻🇳 </h2>
-<img align="right" src="https://github.com/jayll1303/jayll1303/blob/main/typing.gif"  />
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayll1303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayll1303&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h1>Hi 👋! My name is Ngọc Trai and I'm an AI Engineer, from 🇻🇳</h1>
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api?username=jayll1303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayll1303&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    </td>
+    <td width="30%" valign="top">
+      <img src="https://github.com/jayll1303/jayll1303/blob/main/typing.gif?raw=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 
 
