@@ -15,6 +15,12 @@
   </tr>
 </table>
 
+<div align="center">
+  
+![Status Window](https://git-profile-awaken.vercel.app/api?username=jayll1303&theme=nord&mode=mortal&widget=status)
+
+</div>
+
 ### 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
